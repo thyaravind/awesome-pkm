@@ -16,6 +16,7 @@ Last updated: November 2024
 | [Heptabase](https://heptabase.com/) | -- | -- | --- |
 | [iAWriter](https://memex.garden/) | NA | NA | Zettlekasten |
 | [Infinity Maps](https://infinitymaps.com/) | -- | -- | --- |
+| [JournalIt](https://journalit.app/) | -- | -- | --- |
 | [Logseq](https://logseq.com/) | -- | -- | --- |
 | [Mem](https://mem.ai/) | -- | -- | --- |
 | [Memotron](https://memotron.io/) | Closed - Freemium | web, iOS | Databases, Types, Advanced markdown, Clipping, Capture, AI |
