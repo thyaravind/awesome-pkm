@@ -1,4 +1,4 @@
-# awesome-pkm - The exhaustive list of everything personal knowledge management.
+# The exhaustive list of everything personal knowledge management [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 Last updated: November 2024
 
 # Full PKM apps
@@ -67,6 +67,7 @@ Last updated: November 2024
 | [Fablehenge](https://fablehenge.com/) | -- | -- | Story writing app |
 | [Google Keep]() | -- | -- | --- |
 | [Joplin]() | -- | -- | --- |
+| [Knowfox](https://knowfox.com/) | -- | -- | --- |
 | [Ideaflow](https://www.ideaflow.io/) | -- | -- | --- |
 | [My life note](https://mylifenote.ai/) | -- | -- | --- |
 | [Noto]() | -- | -- | --- |
@@ -104,3 +105,7 @@ Last updated: November 2024
 |--------------|--------|-------------------|
 | Cornell | --- | --- |
 | Zettlekasten | -- | -- |
+
+
+# Other lists
+[Awesome Knowledge Management](https://github.com/brettkromkamp/awesome-knowledge-management)
